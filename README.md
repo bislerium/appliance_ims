@@ -3,7 +3,7 @@
 
 ### Before Run:
 - Make Sure a *Database Server Application Software*  like XAMPP, MySQL Workbench (*used*) etc. is installed in your system.
-- Import the dumb file from: *\\mysql* folder.
+- Import the dumb file from: *mysql/Dump20210908* folder.
 - Host the imported database locally.
 
 ### To Run:
